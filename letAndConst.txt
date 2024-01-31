@@ -1,0 +1,12 @@
+
+1) What is the difference between var and let?
+    the let keyword does will allow you to redeclare but the var will. var can be hoisted, let cannot. let has a scope of block
+
+2) What is the difference between var and const?
+    const does not allow you to redeclare or reassign, unlike var. const is all block scope, var can be hoisted
+
+3) What is the difference between let and const?
+    let can be reassigned but const cannot
+
+4) What is hoisting?
+    variables get hoisetd to the top of the scope they are declared in
